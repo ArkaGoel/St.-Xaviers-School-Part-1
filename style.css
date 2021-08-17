@@ -1,0 +1,10 @@
+marquee{
+    background-color: blue;
+    color: white;
+}
+nav{
+    background-color: black;
+}
+.links:hover{
+    color: white;
+}
